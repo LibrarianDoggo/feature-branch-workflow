@@ -1,1 +1,1 @@
-<nav>Broken navbar</nav>
+<nav>Fixed navbar!</nav>
